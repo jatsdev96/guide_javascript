@@ -1,2 +1,2 @@
 # guide_javascript
-examples of code for js
+code´s examples for js
